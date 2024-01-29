@@ -1,0 +1,7 @@
+node_modules
+videos
+screenshots
+allure-results
+allure-reports
+yarn.lock
+package-lock.json

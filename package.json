@@ -1,0 +1,13 @@
+{
+  "name": "cypress-express-mark",
+  "version": "1.0.0",
+  "description": "Projeto | Testes E2E no Mark L",
+  "main": "index.js",
+  "author": "Breno Martinez",
+  "license": "MIT",
+  "devDependencies": {
+    "@faker-js/faker": "^8.0.2",
+    "@shelex/cypress-allure-plugin": "^2.40.0",
+    "cypress": "^13.1.0"
+  }
+}
